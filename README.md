@@ -1,7 +1,5 @@
 # Form Generator
 
-# install dependencies
-
 npm install
 
 #
